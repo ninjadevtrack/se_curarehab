@@ -52,7 +52,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@urql/core": "^4.0.8",
+    "@urql/core": "^5.0.5",
     "toucan-js": "^3.1.0"
   }
 }
